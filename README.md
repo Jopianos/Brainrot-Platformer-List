@@ -1,1 +1,1 @@
-# Brainrot-Platformer-List
+This website uses the "GDSHittyList" template.
